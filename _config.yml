@@ -1,5 +1,7 @@
-title: "First Tutorial"
+---
+title: "Tutorial"
 date: 2020-07-27
+---
 author: JARVIS
 email: abcd@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
